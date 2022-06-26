@@ -21,3 +21,9 @@ The case of the 1st gen 1st batch has a slightly different size and the models a
 
 The different parts are displayed below. Please note that <b>some models of the battery mount need to be printed twice</b>.
 ![freecad_labels](https://user-images.githubusercontent.com/9480430/175831405-c5f1d6d8-c042-4447-8182-607724f56cdc.png)
+
+
+
+The asembled parts look like this:
+
+![photo_mounts_only](https://user-images.githubusercontent.com/9480430/175832167-0fcd2937-f8d1-4bdd-abbb-13ccdeaa4042.jpg)
