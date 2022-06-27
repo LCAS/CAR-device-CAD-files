@@ -1,4 +1,7 @@
 # CAR-device-CAD-files
+
+Note: see <https://github.com/LCAS/RASberry/wiki/Smart-Trolley-Device-Hardware/> for further documentation.
+
 ### FreeCAD file for the 3d prints for the Call-A-Robot device (1st gen, 2nd batch)
 This is the FreeCAD file for the call-a-robot device.
 All files can be printed without added supports, but some have to be rotated.
@@ -13,6 +16,7 @@ The models are seperated into four parts:
 Depending on the printer setting some fine tuning or post-processing may be necessary for a perfect fit.
 The parts were printed in PLA, but other materials should work as well.
 If printing in ABS, keep in mind that the material will shrink a bit.
+All assembled parts are held in place by friction - no screws or glue is required.  
 
 The case dimensions are 200 x 150 x 75.
 The exact dimension depend on where you meassure - the case is slightly conic, with the top wider than the bottom.
